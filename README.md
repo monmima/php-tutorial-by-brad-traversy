@@ -1,6 +1,8 @@
 # php-tutorial-by-brad-traversy
 
-Tutorial by Brad Traversy telling you the basics of PHP
+Tutorial by Brad Traversy telling you the basics of PHP.
+
+Now at 10:39 in part 10 of the tutorial.
 
 ## Linux Mint and VS Code
 
@@ -18,5 +20,5 @@ This means you won't get the squiggly red lines when something is typed wrong in
 6. Under "PHP › Validate: Executable Path", paste you path.
 7. For more information, [stackoverflow](https://stackoverflow.com/questions/43768614/how-to-set-php-executable-path-php-validate-executablepath-in-vscode-when-php-is) might come in handy.
 
-
+You can make sure everything is working fine by writing random characters in your code **and then saving**. If you get the red squilly lines, this is working.
 
