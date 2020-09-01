@@ -1,13 +1,9 @@
-<<<<<<< HEAD
 <?php include "server-info.php"; ?>
-=======
->>>>>>> 9c346d68d56c95bf343490f3d2a662da7fb918de
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<<<<<<< HEAD
     <title>System Info</title>
     <!-- CSS only -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
@@ -40,11 +36,5 @@
             </ul>
         <?php endif; ?>
     </div>
-=======
-    <title>Document</title>
-</head>
-<body>
-    
->>>>>>> 9c346d68d56c95bf343490f3d2a662da7fb918de
 </body>
 </html>

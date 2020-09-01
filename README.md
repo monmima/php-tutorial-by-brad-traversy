@@ -1,8 +1,22 @@
 # php-tutorial-by-brad-traversy
 
-Tutorial by Brad Traversy telling you the basics of PHP.
+Tutorial by Brad Traversy teaching you the basics of PHP.
 
-Now at 00:00 in part 11 of the tutorial.
+Now at 00:00 in part 13 of the tutorial.
+
+- [Part 1](https://www.youtube.com/watch?v=oJbfyzaA2QA&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn)
+- [Part 2](https://www.youtube.com/watch?v=6tCWiexc05U&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn&index=2)
+- [Part 3](https://www.youtube.com/watch?v=0Dp7Lt7iT3A&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn&index=3)
+- [Part 4](https://www.youtube.com/watch?v=9p9siksrSoU&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn&index=4)
+- [Part 5](https://www.youtube.com/watch?v=5ggUfM6mvSk&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn&index=5)
+- [Part 6](https://www.youtube.com/watch?v=ApP1rgZ9OlY&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn&index=6)
+- [Part 7](https://www.youtube.com/watch?v=x6UDhaHVaeY&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn&index=7)
+- [Part 8](https://www.youtube.com/watch?v=EHfr-edosmA&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn&index=8)
+- [Part 9](https://www.youtube.com/watch?v=faknU12cs7Y&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn&index=9)
+- [Part 10](https://www.youtube.com/watch?v=oVJ0anq8yLA&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn&index=10)
+- [Part 11](https://www.youtube.com/watch?v=cIFUH3Qnd6s&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn&index=11)
+- [Part 12](https://www.youtube.com/watch?v=z32BOHVWplU&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn&index=12)
+- [Part 13](https://www.youtube.com/watch?v=z32BOHVWplU&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn&index=13)
 
 ## Running this project
 

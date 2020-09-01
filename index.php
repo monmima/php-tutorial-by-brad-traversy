@@ -10,7 +10,6 @@
 
     <p>To run this page in a PHP server, start Xampp and then type "localhost/php-tutorial-by-brad-traversy" in the adress bar of your browser.</p>
 
-
     <ol>
         <li><a title="Part 001" href="part-001.php">Part 001</a></li>
         <li>No part 2; Brad just shows you how to install Xampp here</li>
@@ -21,7 +20,10 @@
         <li><a title="Part 007" href="part-007.php">Part 007: Conditionals</a></li>
         <li><a title="Part 008" href="part-008.php">Part 008: Dates</a></li>
         <li><a title="Part 009" href="part-009-includes-and-requires/index.php">Part 009: Includes and Requires</a></li>
-        <li><a title="Part 010" href="part-010-server-superglobal/index.php">Part 010: Server Superglobal</a></li>
+        <li><a title="Part 010" href="part-010/index.php">Part 010: Server Superglobal</a></li>
+        <li><a title="Part 011" href="part-011.php">Part 011: POST and GET</a></li>
+        <li><a title="Part 012" href="part-012.php">Part 012: Common String Functions</a></li>
+        <li><a title="Part 013" href="part-013.php">Part 013: Ternary and Shorthand Syntax</a></li>
     </ol>
 </body>
 </html>
