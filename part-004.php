@@ -49,7 +49,7 @@
 	$cars = array(
 		array("Honda", 20, 10),
 		array("Toyota", 20, 10),
-		array("Ford", 20, 10),
+		array("Ford", 20, 10)
 	);
 
 	echo $cars[1][0];
