@@ -24,6 +24,8 @@
         <li><a title="Part 011" href="part-011.php">Part 011: POST and GET</a></li>
         <li><a title="Part 012" href="part-012.php">Part 012: Common String Functions</a></li>
         <li><a title="Part 013" href="part-013.php">Part 013: Ternary and Shorthand Syntax</a></li>
+        <li><a title="Part 014" href="part-014.php">Part 014: Filters and Validations</a></li>
+        <li><a title="Part 015" href="part-015.php">Part 015: PHP Contact Form</a></li>
     </ol>
 </body>
 </html>
