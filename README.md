@@ -2,7 +2,7 @@
 
 Tutorial by Brad Traversy teaching you the basics of PHP.
 
-Now at 08:24 in part 15 of the tutorial.
+Now at the start of part 17.
 
 - [Part 1](https://www.youtube.com/watch?v=oJbfyzaA2QA&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn)
 - [Part 2](https://www.youtube.com/watch?v=6tCWiexc05U&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn&index=2)

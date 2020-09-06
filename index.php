@@ -26,6 +26,7 @@
         <li><a title="Part 013" href="part-013.php">Part 013: Ternary and Shorthand Syntax</a></li>
         <li><a title="Part 014" href="part-014.php">Part 014: Filters and Validations</a></li>
         <li><a title="Part 015" href="part-015.php">Part 015: PHP Contact Form</a></li>
+        <li><a title="Part 016" href="part-016/index.php">Part 016: Sessions</a></li>
     </ol>
 </body>
 </html>
