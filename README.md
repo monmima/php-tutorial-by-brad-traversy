@@ -19,6 +19,10 @@ Now at the start of part 17.
 - [Part 13](https://www.youtube.com/watch?v=z32BOHVWplU&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn&index=13)
 - [Part 14](https://www.youtube.com/watch?v=pfY9LwcsH3A&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn&index=14&pbjreload=101)
 - [Part 15]()
+- [Part 16](https://www.youtube.com/watch?v=W4rSS4-LdIE)
+- [Part 17](https://www.youtube.com/watch?v=RzMjwICWKr4)
+- [Part 18](https://www.youtube.com/watch?v=nU0KDn-vLT4)
+- [Part 19](https://www.youtube.com/watch?v=sLLZU38Okgo)
 
 ## Running this project
 

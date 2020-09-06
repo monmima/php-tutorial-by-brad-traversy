@@ -27,6 +27,9 @@
         <li><a title="Part 014" href="part-014.php">Part 014: Filters and Validations</a></li>
         <li><a title="Part 015" href="part-015.php">Part 015: PHP Contact Form</a></li>
         <li><a title="Part 016" href="part-016/index.php">Part 016: Sessions</a></li>
+        <li><a title="Part 017" href="part-017/index.php">Part 017: Cookies</a></li>
+        <li><a title="Part 018" href="part-018/index.php">Part 018: PHP and AJAX</a></li>
+        <li><a title="Part 019" href="part-019/index.php">Part 019: File System Functions</a></li>
     </ol>
 </body>
 </html>
