@@ -30,6 +30,7 @@
         <li><a title="Part 017" href="part-017/index.php">Part 017: Cookies</a></li>
         <li><a title="Part 018" href="part-018/index.php">Part 018: PHP and AJAX</a></li>
         <li><a title="Part 019" href="part-019/index.php">Part 019: File System Functions</a></li>
+        <li><a title="Part 020" href="part-020.php">Part 020: OOP</a></li>
     </ol>
 </body>
 </html>
