@@ -2,15 +2,18 @@
     require("config/config.php");
     require("config/db.php");
 
-    $query = "SELECT * FROM posts";
+    // get ID
+    $id = mysqli_real_escape_string($conn, $_GET["id"]);
+
+    $query = "SELECT * FROM posts WHERE id = $id";
 
     // the connection below comes from the config/db.php file
     // Get result
     $result = mysqli_query($conn, $query);
 
     // fetch data
-    $posts = mysqli_fetch_all($result, MYSQLI_ASSOC);
-    var_dump($posts);
+    // mysqli_fetch_assoc = turn one post into an associative array
+    $post = mysqli_fetch_assoc($result);
 
     // Free result
     mysqli_free_result($result);
@@ -29,21 +32,23 @@
 </head>
 <body class="container">
     <?php include("includes/header.php"); ?>
+    
+    <a href="<?php echo ROOT_URL; ?>" class="btn btn-danger">Back</a>
 
-    <h1>Posts</h1>
+    <div class="jumbotron">
+        <h1><?php echo $post["title"]; ?></h1>
 
-    <?php foreach($posts as $post) : ?>
-        <div class="jumbotron">
-            <h3><?php echo $post["title"]; ?></h3>
+        <small>Created on <?php echo $post["created_at"] . " by " . $post["author"] ?></small>
 
-            <small>Created on <?php echo $post["created_at"] . " by " . $post["author"] ?></small>
+        <p><?php echo $post["body"]; ?></p>
 
-            <p><?php echo $post["body"]; ?></p>
 
-            <a class="btn btn-danger" href="post.php?id=<?php echo $post['id'] ?>" title="Read More">Read More</a>
-        </div>
-    <?php endforeach ?>
+
+    
+    </div>
+
 
     <?php include("includes/footer.php"); ?>
+
 </body>
 </html>

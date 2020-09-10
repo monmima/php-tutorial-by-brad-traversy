@@ -24,8 +24,8 @@ Now at 00:12 in part 21.
 - [Part 18](https://www.youtube.com/watch?v=nU0KDn-vLT4)
 - [Part 19](https://www.youtube.com/watch?v=sLLZU38Okgo)
 - [Part 20](https://www.youtube.com/watch?v=FhbP6bF21Cs)
-- [Part 21]()
-- [Part 22]()
+- [Part 21](https://www.youtube.com/watch?v=IYlDJ2K3MGk&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn&index=21)
+- [Part 22](https://www.youtube.com/watch?v=9t7AH7lOlL0&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn&index=22)
 
 ## Running this project
 
