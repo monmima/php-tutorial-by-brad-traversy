@@ -32,6 +32,7 @@
         <li><a title="Part 019" href="part-019/index.php">Part 019: File System Functions</a></li>
         <li><a title="Part 020" href="part-020.php">Part 020: OOP</a></li>
         <li><a title="Part 021" href="part-021/index.php">Part 021: Fetching Data (MySQL)</a></li>
+        <li><a title="Part 022" href="part-022/index.php">Part 022: Fetching Data (second part)</a></li>
     </ol>
 </body>
 </html>
