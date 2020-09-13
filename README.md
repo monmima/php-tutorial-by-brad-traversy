@@ -2,8 +2,6 @@
 
 Tutorial by Brad Traversy teaching you the basics of PHP.
 
-Now at 00:12 in part 21.
-
 - [Part 1](https://www.youtube.com/watch?v=oJbfyzaA2QA&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn)
 - [Part 2](https://www.youtube.com/watch?v=6tCWiexc05U&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn&index=2)
 - [Part 3](https://www.youtube.com/watch?v=0Dp7Lt7iT3A&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn&index=3)
@@ -30,6 +28,8 @@ Now at 00:12 in part 21.
 ## Running this project
 
 <p>To run the main index.php page, start Xampp and then type "localhost/php-tutorial-by-brad-traversy" in the adress bar of your browser.</p>
+
+To start XAMPP in Linux Mint from the console, type "sudo /opt/lampp/manager-linux-x64.run".
 
 ## Linux Mint and VS Code
 
